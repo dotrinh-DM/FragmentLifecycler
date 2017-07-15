@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dotrinh/AndroidStudioProjects/FragmentRecycler/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dotrinh/AndroidStudioProjects/FragmentRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c3901f255390e0965f583363cd3c9eb3f8183dae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrinh/AndroidStudioProjects/FragmentRecycler/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8b1e9acbca41b180413c8e5e447290e30c9cb6c">
+        <dex dex="/Users/dotrinh/AndroidStudioProjects/FragmentRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e23ee250946176adc495cf2944ec6e094e97308c/classes.dex" />
+    </item>
+
+</items>
